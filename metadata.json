@@ -1,0 +1,5 @@
+{
+  "name": "Macho AI Trainer",
+  "description": "Feed the bodybuilder character by dropping food images. The AI analyzes the nutritional value to grow muscles or make him sick.",
+  "requestFramePermissions": []
+}
